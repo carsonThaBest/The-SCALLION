@@ -20,7 +20,7 @@ body {
 }
 
 .banner {
-  background-color: #af4c0f;
+  background-color: #eeeeee;
   color: black;
   padding: 10px 10px;
 }
@@ -63,7 +63,7 @@ main {
 }
 
 aside {` 
-  background-color: #FF0000;
+  background-color: #eeeeee;
   width: 270px;
   float: right;
   padding: 0px;
@@ -72,10 +72,11 @@ aside {`
 
 footer {
   clear: both;
-  background-color: #20416c;
+  background-color: #eeeeee;
   color: white;
   padding: 5px 20px;
 }
+
 
 
 
