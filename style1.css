@@ -14,20 +14,20 @@ body {
   width: 960px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #f0f0f0;
+  background-color: #af4c0f;
   font-family: Georgia;
   font-size: 15px;
 }
 
 .banner {
-  background-color: #11233;
+  background-color: #af4c0f;
   color: black;
   padding: 10px 10px;
 }
 
 nav {
   width: 620px;
-  background-color: #20416c;
+  background-color: #af4c0f;
   padding: 10px;
   margin-top: 1px;
 }
@@ -76,6 +76,7 @@ footer {
   color: white;
   padding: 5px 20px;
 }
+
 
 
 
