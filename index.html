@@ -107,29 +107,7 @@
 <!-- Dark Mode Button -->
 <button id="darkModeButton">🌙 Dark Mode</button>
 
-<!-- CSS for Dark Mode -->
-<style>
-  body { transition: background 0.3s, color 0.3s; }
 
-  body.dark-mode {
-    background-color: #121212;
-    color: #f0f0f0;
-  }
-
-  /* Optional: Button style */
-  #darkModeButton {
-    position: fixed;
-    top: 10px;
-    right: 10px;
-    padding: 8px 12px;
-    cursor: pointer;
-  }
-
-  /* Example: Dark-mode for links */
-  body.dark-mode a {
-    color: #bb86fc;
-  }
-</style>
 
 <!-- JavaScript for toggling dark mode -->
 <script>
@@ -146,6 +124,7 @@
     localStorage.setItem('theme', document.body.classList.contains('dark-mode') ? 'dark' : 'light');
   });
 </script>
+
 
 
 
