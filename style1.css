@@ -17,7 +17,6 @@ body {
   background-color: white;
   font-family: Calibri;
   font-size: 15px;
-  transition: background-color 0.5s, color 0.5s;
 }
 
 .banner {
@@ -98,6 +97,7 @@ footer {
     color: #bb86fc;
   }
 </style>
+
 
 
 
