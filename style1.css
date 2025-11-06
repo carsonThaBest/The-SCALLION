@@ -15,7 +15,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   background-color: white;
-  font-family: Calibri;
+  font-family: Georgia;
   font-size: 15px;
 }
 
@@ -78,6 +78,8 @@ footer {
 }
 
 <style>
+  body { transition: background 0.3s, color 0.3s; }
+
   body.dark-mode {
     background-color: #121212;
     color: #f0f0f0;
@@ -97,9 +99,6 @@ footer {
     color: #bb86fc;
   }
 </style>
-
-
-
 
 
 
